@@ -1,10 +1,6 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=Rajnish%20Jha&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%26%20Cloud%20Engineer%20%7C%20AWS%20%7C%20IIT%20Roorkee&descAlignY=60&descSize=17&descColor=8b949e" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=DevOps+%26+Cloud+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Linux;Building+CI%2FCD+Pipelines+%26+Infrastructure;IIT+Roorkee+%7C+Advanced+Cert+in+Cloud+%26+DevOps" alt="Typing SVG" />
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=80&amp;lines=Hi+there%2C+I'm+Rajnish+Jha+%F0%9F%91%8B;DevOps+%26+Cloud+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Linux;IIT+Roorkee+%7C+Cloud+%26+DevOps+Certified" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -38,7 +34,6 @@ email:       rajnish96jha@gmail.com
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -50,7 +45,7 @@ email:       rajnish96jha@gmail.com
 |---|---|---|
 | [AWS CI/CD Pipeline](https://github.com/VortexSentinel/nextwork-web-project-cicd) | CodePipeline · CodeBuild · CodeDeploy · Maven | End-to-end CI/CD for a Java web app on EC2 with artifact management via CodeArtifact |
 | [GitFlow Workflow — Zendriix](https://github.com/VortexSentinel/zendriix-git-workflow) | Git · GitFlow · GitHub | Branching strategy implementation for a simulated enterprise product release cycle |
-| [AWS Deployment Project](https://github.com/VortexSentinel/aws-deployment-project) | AWS EC2 · S3 · IAM | Cloud deployment setup with IAM roles, storage, and compute configuration |
+| [Ai CI/CD Project](https://github.com/VortexSentinel/ai-cicd-github-2) | Python · GitHub Actions · Pytest · Ruff · Build | Automated CI pipeline with linting, unit tests, and artifact packaging. Configured GitHub Actions to run on every push/PR, ensuring code quality and reliability. |
 | [Git Learning Log](https://github.com/VortexSentinel/git-learning-log) | Git · GitHub | Documented Git fundamentals, branching, rebase, cherry-pick, and merge conflicts |
 
 ---
@@ -58,8 +53,8 @@ email:       rajnish96jha@gmail.com
 ### 📊 GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VortexSentinel&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VortexSentinel&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VortexSentinel&theme=github_dark" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VortexSentinel&theme=github_dark" />
 </div>
 
 <div align="center">
@@ -68,22 +63,14 @@ email:       rajnish96jha@gmail.com
 
 ---
 
-### 📈 Contribution activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VortexSentinel&theme=github-compact&hide_border=true&area=true" />
-</div>
-
----
-
 ### 🎯 Currently learning
 
-```
-Docker   ████████████░░░░  Containers, networking, volumes, Compose
-K8s      █████░░░░░░░░░░░  Pods, services, deployments
-Terraform████████░░░░░░░░  AWS provider, VPC, EC2, S3 modules
-Python   ██████████░░░░░░  Scripting, automation, Boto3, Streamlit
-```
+| Skill | Progress | Topics |
+|---|---|---|
+| 🐳 Docker | `████████████░░░` 75% | Containers, networking, volumes, Compose |
+| ☸️ K8s | `█████░░░░░░░░░░` 30% | Pods, services, deployments |
+| 🏗️ Terraform | `████████░░░░░░░` 50% | AWS provider, VPC, EC2, S3 modules |
+| 🐍 Python | `██████████░░░░░` 62% | Scripting, automation, Boto3, Streamlit |
 
 ---
 
@@ -91,12 +78,8 @@ Python   ██████████░░░░░░  Scripting, automation
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajnish-k-jha)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rajnish96jha@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/VortexSentinel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajnish-k-jha)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajnish96jha@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VortexSentinel)
 
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer" />
 </div>
