@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=80&amp;lines=Hi+there%2C+I'm+Rajnish+Jha+%F0%9F%91%8B;DevOps+%26+Cloud+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Linux;IIT+Roorkee+%7C+Cloud+%26+DevOps+Certified" alt="Typing SVG" />
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=Rajnish%20Jha&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20Engineer%20%7C%20AWS%20%7C%20IIT%20Roorkee&descAlignY=60&descSize=17&descColor=8b949e" />
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=DevOps+%26+Cloud+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Linux;Building+CI%2FCD+Pipelines+%26+Infrastructure;IIT+Roorkee+Certified+in+Cloud+%26+DevOps" alt="Typing SVG" />
+</div>
+<br/>
 
 ---
 
